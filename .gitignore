@@ -23,5 +23,6 @@
 hs_err_pid*
 replay_pid*
 
+# 敏感信息文件隐藏
 *.yml
 *.properties
